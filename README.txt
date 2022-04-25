@@ -1,3 +1,7 @@
+This repository is taken from https://www.libsdl.org/projects/SDL_ttf/release/
+
+It has been simplified for the purpose of compiling on windows
+
 
 This library is a wrapper around the excellent FreeType 2.0 library,
 available at:
